@@ -1,5 +1,5 @@
-import tensorflow as tf
 import streamlit as st
+import tensorflow as tf
 import os
 import tensorflow_hub as hub
 from styler import load_img, transform_img, tensor_to_image, imshow
