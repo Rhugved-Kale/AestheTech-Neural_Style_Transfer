@@ -1,0 +1,4 @@
+tensorflow
+streamlit
+os
+tensorflow_hub
